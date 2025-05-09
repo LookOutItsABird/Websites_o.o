@@ -1,0 +1,153 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: white;
+    font-family: Georgia, "Times New Roman";
+}
+section {
+    background-color: gray;
+    padding: 3px 10px;
+    display: flex;
+    flex-direction: row;
+}
+div {
+    background: rgb(187, 173, 138);
+    display: inline-block;
+    width: 25px;
+    margin: auto;
+}
+
+/* HEADER */
+header {
+    background-color: rgb(253, 255, 246);
+    color: rgb(13, 42, 43);
+    padding: 3px 10px;
+    height: 100px;
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul {
+    list-style-type:none;
+}
+nav li {
+    display:inline-block;
+    margin-right: 20px;
+}
+a:hover {
+    text-decoration: underline;
+}
+header a {
+    color: rgb(13, 42, 43);
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-top: 40px;
+}
+header .logo a {
+    width:90px;
+    height:90px;
+    top: -38px;
+    position: relative;
+    background-color: rgb(245, 245, 220);
+    background-image: url("images/flora_logo.png");
+    background-size: 90px;
+    text-indent:-9999999px;
+    display: inline-block;
+    background-repeat: no-repeat;
+}
+
+.search {
+    background-color: transparent;
+    position: relative;
+    right: 100px;
+}
+
+.search input {
+    width: 180px;
+    position: relative;
+    right: 70px;
+    top: -2px;
+
+    background-color: white;
+    padding: 6px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    font-size: 12px;
+    box-shadow: rgb(187, 173, 138) 0px 0px 2px;
+}
+
+.fa-magnifying-glass {
+    background-color: transparent;
+    color: gray;
+    font-size: 13px;
+    position: relative;
+    top: -25px;
+    left: 100px;
+}
+
+.cart-icon {
+    position: relative;
+    top: -20px;
+    right: 5px;
+    font-size:27px;
+    background-color: transparent;
+}
+
+
+/* FRONT PAGE */
+#front_page {
+    height: 400px;
+    background-color: rgb(245, 245, 220);
+    background-image: url(images/flower_shop_2.jpg);
+    background-size: 100%;
+    background-position: center -175px;
+    background-repeat: no-repeat;
+}
+
+/* FEATURES */
+.features {
+    height: 300px;
+    background-color: rgb(187, 173, 138);
+}
+
+/* FOOTER */
+footer {
+    background-color: rgb(24, 24, 24);
+    color: rgb(245, 245, 220);
+    padding: 8px 15px;
+    font-size: 14px;
+    font-family:'Times New Roman', Times, serif
+}
+
+footer a {
+    color: rgb(253, 255, 246);
+    font-size: 25px;
+}
+
+#contacts li {
+    margin-right: 15px;
+}
+
+#contacts {
+    position: relative;
+    right: 10px;
+}
+
+#contacts i {
+    position: relative;
+    left: 10px;
+}
+
+#contacts #phone_icon {
+    position: relative;
+    top: 1px;
+}
+
+#social_media {
+    position: relative;
+    left: 15px;
+}
