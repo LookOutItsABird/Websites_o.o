@@ -9,7 +9,7 @@ https://lookoutitsabird.github.io/Websites_o.o/index
 https://lookoutitsabird.github.io/Websites_o.o/CSS_Colors_Fonts
 
 ## Week 3
-https://lookoutitsabird.github.io/Websites_o.o/index_flower_shop
+https://lookoutitsabird.github.io/Websites_o.o/layout_websites/index_flower_shop
 
 ### Learning Overview
  - **CSS**: styles.css (External Style Sheet to share CSS styles among HTML files), classes and IDs, width / height / background-color (standardized layout steps)
