@@ -2,13 +2,13 @@
 ### Description
 Compilation of my experimental websites as I learn HTML / CSS / JavaScript.
 
-#### Week 1 (HTML Fundamentals):
+## Week 1 (HTML Fundamentals):
 https://lookoutitsabird.github.io/Websites_o.o/index
 
-#### Week 2 (CSS Colors, Fonts):
+## Week 2 (CSS Colors, Fonts):
 https://lookoutitsabird.github.io/Websites_o.o/CSS_Colors_Fonts
 
-#### Week 3
+## Week 3
 https://lookoutitsabird.github.io/Websites_o.o/index_flower_shop
 
 ### Learning Overview
