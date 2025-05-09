@@ -13,5 +13,5 @@ https://lookoutitsabird.github.io/Websites_o.o/layout_websites/index_flower_shop
 
 ### Learning Overview
  - **CSS**: styles.css (External Style Sheet to share CSS styles among HTML files), classes and IDs, width / height / background-color (standardized layout steps)
- - **HTML**: Header / Section / Footer tags, anchor tag and hyperlink reference (several pages linked to each other), img tags, icon libraries, favicon (website icon in browser), nav / ul / li for consistent placement
+ - **HTML**: Header / Section / Footer tags, anchor tag and hyperlink reference (several pages linked to each other), img tags, icon libraries, favicon (website icon in browser), nav / ul / li for consistent placement, search bar
  - **Other**: Color scheme and graphic design
